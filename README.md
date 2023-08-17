@@ -1,4 +1,4 @@
-# Color-Switcher
+#Color-Switcher-JavaScript
 #live link:
 https://color-switchers-website-6.netlify.app/
 
